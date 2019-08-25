@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# 欢迎来到我的个人主页！
 
-You can use the [editor on GitHub](https://github.com/yulleii/yulei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+目前页面不作为个人主页使用，当前主要放一些个人找工作时的复习的资料，方便随时随地可以复习使用。后续等找完工作后，再陆续修改完善个人主页。如果有任何学习Java后台的问题，可以通过邮箱yulleii@163.com联系我，欢迎骚扰~~~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Java
 
-### Markdown
+- [Java基础知识点总结](https://github.com/yulleii/Notes/blob/master/Notes-JAVA/Java基础知识点总结.md)
+- [Java并发](https://github.com/yulleii/Notes/blob/master/Notes-JAVA/Java并发.md)
+- [JVM](https://github.com/yulleii/Notes/blob/master/Notes-JAVA/JVM.md)
+- [设计模式](https://github.com/yulleii/Notes/blob/master/Notes-JAVA/设计模式.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 计算机网络
 
-```markdown
-Syntax highlighted code block
+- [TCP/IP](https://github.com/yulleii/Notes/blob/master/Notes-Network/TCP_IP.md)
+- [HTTP](https://github.com/yulleii/Notes/blob/master/Notes-Network/HTTP.md)
 
-# Header 1
-## Header 2
-### Header 3
+# 算法和数据结构
 
-- Bulleted
-- List
+- [数据结构](https://github.com/yulleii/Notes/blob/master/Notes-srfa/算法基础-数据结构.md)
+- [算法](https://github.com/yulleii/Notes/blob/master/Notes-srfa/算法基础-算法.md)
 
-1. Numbered
-2. List
+# 数据库
 
-**Bold** and _Italic_ and `Code` text
+## MySQL
 
-[Link](url) and ![Image](src)
-```
+- [MySQL知识点总结](https://github.com/yulleii/Notes/blob/master/Notes-MySQL.md)
+- [MySQL常用命令](https://github.com/yulleii/Notes/blob/master/Notes-MySQL/MySQL常用命令.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Redis
 
-### Jekyll Themes
+- [Redis知识点整理](https://github.com/yulleii/Notes/blob/master/Notes-Redis/知识点整理.md)
+- [常用命令](https://github.com/yulleii/Notes/blob/master/Notes-Redis/常用命令.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yulleii/yulei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# 项目
 
-### Support or Contact
+## Spring
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Spring源码知识点整理](https://github.com/yulleii/Notes/blob/master/Notes-Spring/Spring源码.md)
+- [SpringBoot](https://github.com/yulleii/Notes/blob/master/Notes-Spring/SpringBoot.md)
+
+## 问答系统网页开发笔记
+
+- [链接](https://github.com/yulleii/Notes/blob/master/Notes-Spring/SpringBootProject/)
+
+# 其他
+
+- [git常用操作命令](https://github.com/yulleii/Notes/blob/master/Notes-Inbox/git常用操作命令.md)
+- [非技术类题目分析](https://github.com/yulleii/Notes/blob/master/Notes-Inbox/非技术类题目分析.md)
