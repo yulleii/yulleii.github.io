@@ -23,7 +23,7 @@
 
 ## MySQL
 
-- [MySQL知识点总结](https://github.com/yulleii/Notes/blob/master/Notes-MySQL.md)
+- [MySQL知识点总结](https://github.com/yulleii/Notes/blob/master/Notes-MySQL/MySQL.md)
 - [MySQL常用命令](https://github.com/yulleii/Notes/blob/master/Notes-MySQL/MySQL常用命令.md)
 
 ## Redis
