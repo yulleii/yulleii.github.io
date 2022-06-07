@@ -18,6 +18,7 @@
 
 - [数据结构](https://github.com/yulleii/Notes/blob/master/Notes-srfa/算法基础-数据结构.md)
 - [算法](https://github.com/yulleii/Notes/blob/master/Notes-srfa/算法基础-算法.md)
+- [刷题总结](https://github.com/yulleii/Notes/blob/master/Notes-srfa/刷题总结.md)
 
 # 数据库
 
